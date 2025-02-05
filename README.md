@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranay Kumar Reddy Lenkala</h1>
-<h3 align="center">I am actively seeking opportunities in Data engineering and Software Development roles</h3>
+<h3 align="center">Seeking a challenging and rewarding Software Engineer position where I can leverage my expertise in Java full stack to contribute to the success of an innovative company.</h3>
 
 - 📫 How to reach me **pranaylenkala9@gmail.com**
 
