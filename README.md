@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranay Kumar Reddy Lenkala</h1>
 <h3 align="center">Seeking a challenging and rewarding Software Engineer position where I can leverage my expertise in Java full stack to contribute to the success of an innovative company.</h3>
 
-- 📫 How to reach me **pranaylenkala9@gmail.com**
+- 📫 How to reach me **pranay180999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
